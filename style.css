@@ -107,6 +107,10 @@ input:focus, textarea:focus{
     color: #4CAF50;
 }
 
+.green__resume{
+     color: #4CAF50;
+}
+
 .link__hover-effect{
     position: relative;
 }
@@ -187,6 +191,11 @@ nav, .scroll, .header, #projects{
     background-color:#4CAF50;
     color:#000;
 }
+
+.dark-theme .green__resume:hover{
+    color:darkgoldenrod ;
+}
+
 
 
 

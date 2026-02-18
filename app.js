@@ -1,7 +1,3 @@
-// Public Key: WGmuT8nNsu7wyEhLO
-// Service ID: service_hhit2us, service_o3iilgy
-// Template ID: template_t30dt22
-
 let isModalOpen = false;
 let contrastOption = false;
 const scaleFactor = 1 / 20;
