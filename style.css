@@ -956,7 +956,6 @@ padding: 5px;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.6);
     padding: 10px;
-    margin-left: 50px;
     border-radius: 8px;
     opacity: 1;
     transition: opacity 300ms, transform 900ms ease; /* Smooth transition for opacity and transform description slowly*/
